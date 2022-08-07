@@ -1,4 +1,4 @@
-# Hello World
+# Example
 
 A new Flutter project.
 
